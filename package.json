@@ -1,0 +1,16 @@
+{
+  "name": "stackoverflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scaffold" : "node ./scaffold/index.js --"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nopt": "^4.0.1",
+    "yargs": "^8.0.2"
+  }
+}
